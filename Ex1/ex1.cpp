@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Hello NASSIF bi hebb wahdeeeeee, nassif is gay he wants to be molested\n";
+	std::cout << "Hello\n";        // the goated version
 	return 0;
 }
