@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Hello\n";        // the goated version
+	std::cout << "Hello\n";        // the bitchy version
 	return 0;
 }
